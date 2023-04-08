@@ -4,7 +4,7 @@ A comprehensive survey of state-of-the-art spatial clustering algorithms in spat
 Spatial transcriptomics techniques enable researchers to quantify and localize mRNA transcripts at high resolution while preserving their spatial context. Spatial domain identification, or spatial clustering, is crucial in investigating spatial transcriptome technologies. Graph neural networks (GNNs) have emerged as a promising approach to performing cell type classification by leveraging gene expression, spatial location, and histology images. This manuscript comprehensively overviews state-of-the-art GNN-based spatial clustering algorithms for spatially resolved transcriptomics. We evaluate their performance on prevalent spatial transcriptome data, including clustering accuracy, robustness, achievement, requirement, computational efficiency, memory usage, and other relevant metrics. In each method, we estimate a total of 60 clustering situations by extending the essential spatial clustering frameworks in GNN selections, downstream clustering algorithms, principal component analysis (PCA) reduction, and refined correction. By comparing and analyzing the spatial clustering performance, we identify the relevant limitations of current applications and specify future research directions in this field. This survey provides novel insights and additional motivations for investigating spatial transcriptomics. 
 
 ## Workflow of spatial clustering task
-![]()
+![](https://github.com/narutoten520/Benchmark_SRT/blob/6f7eeb2ba3071aa8dbdc2feb5aa798f77886ca76/Figure%203.png)
 
 ## Contents
 * [Prerequisites](https://github.com/narutoten520/Benchmark_SRT#prerequisites)
