@@ -7,7 +7,7 @@ Spatial transcriptomics techniques enable researchers to quantify and localize m
 ![]()
 
 ## Contents
-* [Prerequisites](https://github.com/narutoten520/Benchmark_SRT/edit/main/README.md#prerequisites)
+* [Prerequisites](https://github.com/narutoten520/Benchmark_SRT#prerequisites)
 * [Example usage](https://github.com/narutoten520/Benchmark_SRT/edit/main/README.md#example-usage)
 * [Benchmarking methods](https://github.com/narutoten520/Benchmark_SRT/edit/main/README.md#benchmarking-methods)
 * [Datasets Availability](https://github.com/narutoten520/Benchmark_SRT/edit/main/README.md#datasets-availability)
